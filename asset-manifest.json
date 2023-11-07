@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StreetSOS.in/static/css/main.0f3122ce.css",
+    "main.js": "/StreetSOS.in/static/js/main.b984955c.js",
+    "static/js/787.917857b7.chunk.js": "/StreetSOS.in/static/js/787.917857b7.chunk.js",
+    "index.html": "/StreetSOS.in/index.html",
+    "main.0f3122ce.css.map": "/StreetSOS.in/static/css/main.0f3122ce.css.map",
+    "main.b984955c.js.map": "/StreetSOS.in/static/js/main.b984955c.js.map",
+    "787.917857b7.chunk.js.map": "/StreetSOS.in/static/js/787.917857b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f3122ce.css",
+    "static/js/main.b984955c.js"
+  ]
+}
